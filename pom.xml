@@ -6,7 +6,7 @@
 
     <groupId>wiki.thesarthakdev</groupId>
     <artifactId>RegionNotifier</artifactId>
-    <version>0.1</version>
+    <version>v1.0</version>
     <packaging>jar</packaging>
 
     <name>RegionNotifier</name>
