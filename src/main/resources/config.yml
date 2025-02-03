@@ -1,0 +1,19 @@
+# Region Configuration
+# Use MiniMessage formatting: https://docs.advntr.dev/minimessage.html
+regions:
+  spawn:
+    enter:
+      title: "<gradient:green:blue>Welcome to Spawn!</gradient>"
+      subtitle: "<gray>Enjoy your stay!</gray>"
+      actionbar: "<gold>You entered the spawn area!</gold>"
+      enabled: true
+    exit:
+      title: "<gradient:red:yellow>Leaving Spawn!</gradient>"
+      subtitle: "<gray>Come back soon!</gray>"
+      actionbar: "<gold>You left the spawn area!</gold>"
+      enabled: true
+
+# Messages
+messages:
+  no-permission: "<red>You don't have permission to use this command!</red>"
+  reload-success: "<green>Configuration reloaded successfully!</green>"

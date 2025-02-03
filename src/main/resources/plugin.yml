@@ -1,0 +1,22 @@
+name: RegionNotifier
+version: '0.1'
+main: wiki.thesarthakdev.regionnotifier.RegionNotifier
+api-version: '1.21'
+prefix: RegionNotifier
+load: STARTUP
+authors: [ Sarthak Kumar ]
+description: s
+website: https://thesarthakdev.wiki
+depend: [WorldGuard]
+commands:
+  regionnotifier:
+    description: Reload the plugin configuration.
+    usage: /regionnotifier reload
+    permission: regionnotifier.reload
+permissions:
+  regionnotifier.reload:
+    description: Allows reloading the plugin configuration.
+    default: op
+  regionnotifier.notify:
+    description: Allows receiving region notifications.
+    default: true
