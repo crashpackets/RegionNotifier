@@ -3,7 +3,7 @@
 
 ![GitHub](https://img.shields.io/badge/License-MIT-green)
 
-RegionNotifier is a **lightweight and customizable** Minecraft plugin that notifies players when they enter or exit specific regions, enhancing gameplay awareness and interaction. 🚀
+RegionNotifier is a **lightweight and customizable** Minecraft plugin that notifies players when they enter or exit specific world guard regions, enhancing gameplay awareness and interaction. 🚀
 
 ---
 
